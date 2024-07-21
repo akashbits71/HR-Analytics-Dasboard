@@ -24,12 +24,16 @@ Clone the Repository:
 sh
 Copy code
 git clone https://github.com/yourusername/hr-data-analytics.git
+
 SQL Scripts:
 Navigate to the SQL directory to find all the scripts used for data extraction and transformation.
+
 Excel Files:
 Navigate to the Excel directory to find the raw data and cleaned data files.
+
 Power BI Dashboards:
 Open the PowerBI directory to access the Power BI project files. Use Power BI Desktop to open and interact with the dashboards.
+
 Visualizations
 Below are some screenshots of the dashboards created in Power BI:
 
